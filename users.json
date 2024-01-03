@@ -1,0 +1,47 @@
+{
+  "aa": {
+    "password": "sha256$YshKDIX4CVz9QoHE$70e10b905a624a8b5831ead8c5b847e82df118e02fa7de704988ce5ff3ecb5d4",
+    "user_id": "47d3c6e8-cba4-42a6-8d6a-dadd5b076d93",
+    "joined_classes": []
+  },
+  "aaaa": {
+    "password": "sha256$SG8DEqW5irMtPMCx$fe2ab8e2b40fd6061e5782c48447d4f1c29c2912435f5766685c828fa1683c6c",
+    "user_id": "45fcae84-5872-42e0-8124-157284d6cbaa",
+    "joined_classes": []
+  },
+  "Hel": {
+    "password": "sha256$KkaSZxn4hJwX3whV$3e1912ff3668d3454f7a6e26c6e3d13ac43e885f0d746c7b8671deca11898189",
+    "user_id": "6f109bb5-3183-4aea-a7c2-865b0126169c",
+    "joined_classes": []
+  },
+  "Hi": {
+    "password": "sha256$of7muQp59Yp7Xkb7$124b5025cc0a9159882a141593f03c9d88d53970347be1d614a34ecab1c06acc",
+    "user_id": "d52f2f33-1333-42ec-9f84-780fbac68315",
+    "joined_classes": []
+  },
+  "g": {
+    "password": "sha256$EhJcyl7tIVxwSPC7$4ff4c33268782d559cdb3ac335b623170620924c56a73b4e054f5342204aff0e",
+    "user_id": "9872a6ff-4aee-4d9c-905b-e26cd7f12421",
+    "joined_classes": []
+  },
+  "L": {
+    "password": "sha256$OUAMf4typeBU1QdG$ea8d1dc889cca315091c4325ff4ec8dad901e2d6a58539563adec3f69b1d924c",
+    "user_id": "742f2766-5372-4bdc-a93b-ab5d2f6cceef",
+    "joined_classes": []
+  },
+  "J": {
+    "password": "sha256$EbAC6VofhJlU3Nzv$e02ac2845efa7fb501831f4f471ee93f89dfb5601ca7e0b597d3b3e5020cc76c",
+    "user_id": "c69de1b7-5487-496b-90eb-4ead370d74f4",
+    "joined_classes": []
+  },
+  "d": {
+    "password": "sha256$KF0d4f53mbfJv4z6$2c58b69ca9ae404a356891f79a782a8e6d6593c74fd4686ac11b2a339447fdf6",
+    "user_id": "cfb5541e-1d90-43c4-a9d8-13ed8c3395c5",
+    "joined_classes": []
+  },
+  "a": {
+    "password": "sha256$LxJ14SDE11SnMZ3H$9b41f712f7d2e1ba1d2a26d49ae81f04632e9e2527a65ac7d506ff7fd8639fbe",
+    "user_id": "0d1792f7-2210-4078-ab52-e814278e508b",
+    "joined_classes": []
+  }
+}
